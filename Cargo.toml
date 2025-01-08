@@ -1,0 +1,9 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+console_engine = "2.6.1"
+lazy_static = "1.5.0"
+termion = "4.0.3"
